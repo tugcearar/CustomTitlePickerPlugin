@@ -1,4 +1,4 @@
-﻿namespace Plugin.CustomTitlePicker.Platforms.Droid
+﻿namespace Plugin.CustomTitlePicker
 {
     /// <summary>
     /// Interface for CustomTitlerPicker
