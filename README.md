@@ -3,10 +3,10 @@
 Various picker designs for your Xamarin.Forms projects.
 
 #### Setup
-* Available on NuGet: [![NuGet](https://img.shields.io/nuget/v/Xam.Plugins.Forms.ImageCircle.svg?label=NuGet)](https://www.nuget.org/packages/Xam.Plugins.Forms.ImageCircle/)
-  *  [https://www.nuget.org/packages/Xam.Plugins.Forms.ImageCircle](https://www.nuget.org/packages/Xam.Plugins.Forms.ImageCircle)
+* Available on NuGet: [![NuGet](https://img.shields.io/nuget/v/Xamarin.Forms.CustomTitlePickerPlugin.svg?label=NuGet)](https://www.nuget.org/packages/Xamarin.Forms.CustomTitlePickerPlugin/)
+  *  [https://www.nuget.org/packages/Xamarin.Forms.CustomTitlePickerPlugin/](https://www.nuget.org/packages/Xamarin.Forms.CustomTitlePickerPlugin/)
 * Install into your PCL project and Client projects.
-* Build status: ![Build status](https://jamesmontemagno.visualstudio.com/_apis/public/build/definitions/6b79a378-ddd6-4e31-98ac-a12fcd68644c/16/badge)
+
 
 **Platform Support**
 
