@@ -21,7 +21,16 @@
 
 First add the xmlns namespace:
 ```xml
-xmlns:customTitlePicker="clr-namespace:Plugin.CustomTitlePicker.Shared;assembly=Plugin.CustomTitlePicker"```
+xmlns:customTitlePicker="clr-namespace:Plugin.CustomTitlePicker.Shared;assembly=Plugin.CustomTitlePicker"
+```
+
+Then add the xaml:
+
+```xml
+ <customTitlePicker:TitlePicker DoneButtonText="My Done Text"
+                                CancelButtonText="My Cancel Text">
+</customTitlePicker:TitlePicker>
+```
 
 **Bindable Properties**
 
