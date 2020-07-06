@@ -4,7 +4,7 @@ using Xamarin.Forms.Platform.iOS;
 using Foundation;
 using UIKit;
 using Plugin.CustomTitlePicker.Shared;
-using CustomTitlePicker.Platforms.iOS;
+using Plugin.CustomTitlePicker.Platforms.iOS;
 
 [assembly: ExportRenderer(typeof(TitlePicker), typeof(CustomTitlePickerRenderer))]
 namespace Plugin.CustomTitlePicker.Platforms.iOS
