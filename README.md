@@ -1,7 +1,7 @@
 ## Custom Picker Control Plugin for Xamarin.Forms
 
-Various picker designs for your Xamarin.Forms projects.
-
+ A custom picker plugin where you can change the Cancel/Done text of the control as you wish.
+ 
 #### Setup
 * Available on NuGet: [![NuGet](https://img.shields.io/nuget/v/Xamarin.Forms.CustomTitlePickerPlugin.svg?label=NuGet)](https://www.nuget.org/packages/Xamarin.Forms.CustomTitlePickerPlugin/)
   *  [https://www.nuget.org/packages/Xamarin.Forms.CustomTitlePickerPlugin/](https://www.nuget.org/packages/Xamarin.Forms.CustomTitlePickerPlugin/)
