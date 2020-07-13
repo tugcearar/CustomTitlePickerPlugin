@@ -4,7 +4,8 @@
  
 #### Setup
 * Available on NuGet: [![NuGet](https://img.shields.io/nuget/v/Xamarin.Forms.CustomTitlePickerPlugin.svg?label=NuGet)](https://www.nuget.org/packages/Xamarin.Forms.CustomTitlePickerPlugin/)
-  *  [https://www.nuget.org/packages/Xamarin.Forms.CustomTitlePickerPlugin/](https://www.nuget.org/packages/Xamarin.Forms.CustomTitlePickerPlugin/)
+*  [https://www.nuget.org/packages/Xamarin.Forms.CustomTitlePickerPlugin/](https://www.nuget.org/packages/Xamarin.Forms.CustomTitlePickerPlugin/)
+* Build status: [![Build Status](https://dev.azure.com/stugcearar/CustomTitlePickerPlugin/_apis/build/status/CustomTitlePickerPlugin-CI?branchName=master)](https://dev.azure.com/stugcearar/CustomTitlePickerPlugin/_build/latest?definitionId=2&branchName=master)
 * Install into your PCL project and Client projects.
 
 
