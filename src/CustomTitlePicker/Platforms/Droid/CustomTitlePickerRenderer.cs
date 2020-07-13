@@ -13,7 +13,7 @@ using Plugin.CustomTitlePicker.Platforms.Droid;
 namespace Plugin.CustomTitlePicker.Platforms.Droid
 {
     /// <summary>
-    /// ImageCircle Implementation
+    /// CustomTitlePicker Implementation
     /// </summary>
     [Preserve(AllMembers = true)]
     public class CustomTitlePickerRenderer : PickerRenderer

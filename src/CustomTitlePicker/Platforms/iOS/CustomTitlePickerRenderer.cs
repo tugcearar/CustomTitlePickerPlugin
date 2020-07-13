@@ -10,7 +10,7 @@ using Plugin.CustomTitlePicker.Platforms.iOS;
 namespace Plugin.CustomTitlePicker.Platforms.iOS
 {
     /// <summary>
-    /// ImageCircle Implementation
+    /// CustomTitlePicker Implementation
     /// </summary>
     [Preserve(AllMembers = true)]
     public class CustomTitlePickerRenderer : PickerRenderer
