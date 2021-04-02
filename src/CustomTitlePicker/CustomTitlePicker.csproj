@@ -30,9 +30,9 @@
     <DebugType>portable</DebugType>
     
     <!--TODO: Fill these in-->
-    <PackageLicenseUrl>https://github.com/sumeyyaarar/CustomTitlePicker/blob/master/LICENSE</PackageLicenseUrl>
-    <PackageProjectUrl>https://github.com/sumeyyaarar/CustomTitlePicker/blob/master/LICENSE</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/sumeyyaarar/CustomTitlePicker/blob/master/LICENSE</RepositoryUrl>
+    <PackageLicenseUrl>https://github.com/stugcearar/CustomTitlePicker/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/stugcearar/CustomTitlePicker/blob/master/LICENSE</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/stugcearar/CustomTitlePicker/blob/master/LICENSE</RepositoryUrl>
     <PackageReleaseNotes>RELEASE NOTES</PackageReleaseNotes>
     <PackageIconUrl>ICON URL</PackageIconUrl>
     <PackageTags>xamarin, windows, ios, android, xamarin.forms, plugin, CustomTitlePicker</PackageTags>
@@ -42,8 +42,8 @@
     <Description> Custom picker for your Xamarin.Forms project with customizable Cancel and Done Text.</Description>
     
     
-    <Owners>Sümeyya Tuğçe Arar</Owners>
-    <Authors>Sümeyya Tuğçe Arar</Authors>
+    <Owners> Tuğçe Arar</Owners>
+    <Authors> Tuğçe Arar</Authors>
     <Copyright>Copyright 2020</Copyright>
 
     <!--When built in 2019 will remove extra references on pack-->
